@@ -1,0 +1,31 @@
+body{
+    background: black;
+}
+
+.CARD{
+    width: 400px;
+    height: 200PX;
+    box-sizing: border-box;
+    padding: 1PX 20PX;
+    background-image: url(../assets/imagem4.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    margin-top: 10%;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.Instagram{
+    list-style-image: url(../assets/imagem1.jpeg);
+    list-style-position: inside;
+}
+.Twitter{
+    list-style-image:  url(../assets/imagem2.jpeg);  
+    list-style-position: inside;      
+}
+.Youtube{
+    list-style-image:  url(../assets/imagem3.jpeg);  
+    list-style-position: inside;  
+}
