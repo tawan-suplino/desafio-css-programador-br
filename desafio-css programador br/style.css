@@ -1,0 +1,28 @@
+
+ul{
+    margin-top: 10px;
+    list-style: lower-latin;
+    /*aqui e aonde tenho que seta o caminho da minha imagem*/
+   /*list-style-image: url();*/
+}
+li{
+    margin: 5px;
+    padding: 5px;
+}
+
+#facebook{
+    list-style-image: url(/imagens/imagem1.jpeg);
+    /*list-style: inside;
+    /*background-color: blue;*/
+}
+#linkend{
+    list-style-image: url(/imagens/imagem2.jpeg);
+    /*list-style: inside;
+    background-color:rebeccapurple;*/
+
+}
+#Instagram{
+    list-style-image: url(/imagens/imagem3.jpeg);
+    /*list-style: inside;
+    background-color: aqua;*/
+}
